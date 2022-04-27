@@ -1,5 +1,5 @@
 # Github for Beginners (like myself)
-My first repository and I want it to focus on tips and skills needed for a beginner in Data Science
+My first repository and I want it to focus on tips and skills needed for a beginner working with this platform.
 
 I can only speak for myself when it comes to mainly the daunting level of skill and knowledge needed to work in any industry in tech, but primarily in the field of Data Science. Admittedly the amount required to cover the subject entirely would be virtually impossible without at least breaking the issue down a bit further into smaller pieces—for example, the foundations needed to make Machine Learning models make some predictions for us. Understanding the data itself takes not only Computer Science knowledge but also knowledge in Mathematics. 
 
